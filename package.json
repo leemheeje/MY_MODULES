@@ -1,6 +1,6 @@
 {
   "name": "leemheeje-plugins",
-  "version": "1.0.2",
+  "version": "2.4.4",
   "description": "",
   "main": "./js/design.plugin.js",
   "scripts": {
@@ -10,7 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/leemheeje/MY_MODULES.git"
   },
-  "author": "",
+  "author": "leemheeje",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/leemheeje/MY_MODULES/issues"
