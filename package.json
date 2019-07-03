@@ -1,0 +1,19 @@
+{
+  "name": "leemheeje-plugins",
+  "version": "1.0.2",
+  "description": "",
+  "main": "./js/design.plugin.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leemheeje/MY_MODULES.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leemheeje/MY_MODULES/issues"
+  },
+  "homepage": "https://github.com/leemheeje/MY_MODULES#readme"
+}
